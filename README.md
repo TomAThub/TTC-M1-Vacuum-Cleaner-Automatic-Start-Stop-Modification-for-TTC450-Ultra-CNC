@@ -54,7 +54,7 @@ Create a control cable as shown in Figure 1 (the wire length depends on the dist
 5. Solder another piece of AWG24 wire to **Pin 4** of the PC817, and connect its other end to the shorted **USB D+ / D-** wires from [Step A].
 6. Thoroughly insulate all exposed solder joints (heat shrink tubing or electrical tape is highly recommended). The control cable is now complete.
 
-![Control Cable Wiring Diagram](Wire1.jpg)
+![Control Cable Wiring Diagram](Wire1.png)
 *(Figure 1: Physical wiring diagram of the control cable and PC817 optocoupler)*
 
 ---
